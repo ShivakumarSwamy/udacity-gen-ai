@@ -1,0 +1,2 @@
+Q: Which AI model uses latent space decoding to generate images?
+A: Variational Autoencoder

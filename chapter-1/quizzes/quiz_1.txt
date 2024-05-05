@@ -1,0 +1,2 @@
+Q: Which of the following is an example of Generative AI being utilized in the realm of personalized experiences?
+A: Adapting user interfaces to user preferences

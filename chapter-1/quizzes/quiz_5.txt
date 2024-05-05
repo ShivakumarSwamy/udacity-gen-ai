@@ -1,0 +1,6 @@
+Match the following
+
+- tokenizer: Tokenise a piece of text
+- AutoModelForCasualLM: Load a pre-trained model
+- AutoTokenizer.from_pretrained: Load a tokenizer
+- torch.nn.functional.softmax: Converts logits into probabilities

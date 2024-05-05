@@ -1,0 +1,2 @@
+Q: What is subword tokenization?
+A: Breaking down words into smaller units, such as parts of words or whole words.
