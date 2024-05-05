@@ -1,0 +1,2 @@
+Q: What is a key advantage of Transformer-based models over Recurrent Neural Networks?
+A: They can process the entire input sequence in parallel
